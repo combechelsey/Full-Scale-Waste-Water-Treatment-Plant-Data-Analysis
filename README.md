@@ -72,7 +72,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Heatmap of Variables](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/02ae96a6-141c-4e6d-9c52-3e9c7e72f2c2))
+![Heatmap of Variables](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/02ae96a6-141c-4e6d-9c52-3e9c7e72f2c2)
 
 ### **We can observe from this correlation map that temperature, along with TM and Tm (maximum and minimum temperature), has the most significant negative correlation with the plant's energy consumption. As temperatures decrease, energy consumption rises. The month of the year also appears to be correlated with energy consumption, likely influenced by seasonal average temperatures. We also note weak negative correlations with nitrogen and ammonia content, as well as the required Biological Oxygen Demand of the contaminated water. The strongest positive correlations, albeit weak, with our target variable are associated with year, humidity, average inflow, and average outflow.**
  
@@ -82,7 +82,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Temperature and Energy Consumption](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/094c54ae-b689-4ee9-ae62-d7e117df7e1f))
+![Temperature and Energy Consumption](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/094c54ae-b689-4ee9-ae62-d7e117df7e1f)
 
 
 ### **Climate and temperature appear to significantly influence the overall energy consumption of the plant. As temperatures rise, there is an observable trend of decreased energy consumption averages. This occurance is likely attributed to the increased availability of biologic components present for waste breakdown when temperatures are elevated.**  
@@ -91,7 +91,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Energy trends over time](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/b6abf503-99d5-441f-a6b9-fc73436741ae))
+![Energy trends over time](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/b6abf503-99d5-441f-a6b9-fc73436741ae)
 
 
 ### **The figure above depicts the energy consumption pattern for powering the wastewater treatment facility. Notably, there has been a pronounced upward trend in energy demand over time. Moreover, post-2016, the seasonal fluctuations in energy requirements have significantly diminished, indicating a more consistent energy consumption pattern. This further underscores the critical role of energy infrastructure and planning in the operations of the plant**
@@ -99,7 +99,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Inflow over time](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/e6dbc465-d419-4854-9db4-4638f47a0784))
+![Inflow over time](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/e6dbc465-d419-4854-9db4-4638f47a0784)
 
 
 ### **Over time, there has been a consistent upward trend in the average inflow to the wastewater plant. The rates have nearly doubled from their levels in 2014 to those observed in 2019. Additionally, there is an observable increase in the occurrence of larger influxes of heightened inflow.**
@@ -109,7 +109,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Precipitation averages by month](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/bbde284b-6d9a-4f69-a8ab-4859df93f5fd))
+![Precipitation averages by month](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/bbde284b-6d9a-4f69-a8ab-4859df93f5fd)
 
 
 ### **April exhibits the highest amount of rainfall, closely followed by September and October. On the other hand, November and May experience the least amount of precipitation. Notably, increases in inflow are unlikely to be attributed to groundwater runoff resulting from precipitation. To delve deeper into the relationship between inflow and other factors, such as temperature, warrants exploration.**
@@ -119,7 +119,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Temperature and inflow averages](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/05bce61d-d13d-4bcf-bf14-67665dd59bc8))
+![Temperature and inflow averages](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/05bce61d-d13d-4bcf-bf14-67665dd59bc8)
 
 
 ### **Temperature is strongly corelated with monthly inflow averages suggesting that the extra inflow during warmer months of the year may be a result of groundwater runoff caused by non-atmospheric conditions.  Perhaps the result of irrigation of crops or farmland or landscape watering in urban areas.  This may be the cause of dilution of wastewater and thus the reduction of energy expendature at times of increased inflow.**
@@ -128,7 +128,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Nitrogen Levels and Energy Use](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/e64eb440-7367-488e-bc99-d61cf3e79e07))
+![Nitrogen Levels and Energy Use](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/e64eb440-7367-488e-bc99-d61cf3e79e07)
 
 
 ### **As the levels of total nitrogen increase, there is a corresponding reduction in the treatment facility's reliance on the energy grid.**
@@ -138,8 +138,7 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Biological Oxygen Demand and Energy Use](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/868c2c4a-de64-4d91-9423-7382c6e4dc66)
-)
+![Biological Oxygen Demand and Energy Use](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/868c2c4a-de64-4d91-9423-7382c6e4dc66)
 
 ### **A negative correlation exists between Biological Oxygen Demand and energy consumption.**
 
@@ -148,8 +147,8 @@ The project will involve data analysis and building predictive models to estimat
 <b>
 <b>
 
-(![Temperature and Energy Consumption](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/701bcc99-1327-4791-92f4-9bbfe41e682d)
-)
+![Temperature and Energy Consumption](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/701bcc99-1327-4791-92f4-9bbfe41e682d)
+
 
 ### **There is a negative corelation between atmospheric temperature and energy consumption.**
 
@@ -162,7 +161,7 @@ The project will involve data analysis and building predictive models to estimat
 ![Humidity and Energy Use](https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/5c500da7-f009-489c-9654-0a12b72e2cf7)
 
 
-**There is a weak positive coorelation between Humidity and energy use.**
+###**There is a weak positive coorelation between Humidity and energy use.**
 
 
 
@@ -187,10 +186,9 @@ To prepare the data for modeling, we will take the following steps:
 <b>
 <b>
 
-## **Modeling Results:**
+## **Modeling Result Metrics:**
 
 
-![Modeling Metric Results]
 <img width="179" alt="Modeling Metrics" src="https://github.com/combechelsey/Full-Scale-Waste-Water-Treatment-Plant-Data-Analysis/assets/132314345/bb335908-f181-4440-a38a-2fb5baaf7fa2">
 
 <b>
@@ -208,7 +206,7 @@ To prepare the data for modeling, we will take the following steps:
 
 ## **Dependencies:**
 
-### Importing libraries
+### Imported libraries:
 
 import pandas as pd
 
@@ -218,7 +216,7 @@ import matplotlib.pyplot as plt
 
 import seaborn as sns
 
-### Preprocessing
+### Preprocessing Imports:
 
 from sklearn.model_selection import train_test_split, GridSearchCV
 
@@ -236,7 +234,7 @@ from sklearn.compose import ColumnTransformer
 
 
 
-### Models
+### Modeling Imports:
 
 from sklearn.dummy import DummyRegressor
 
@@ -275,19 +273,12 @@ import lightgbm as lgb
 
 Data was originally sourced from Arsh Anwar on Kaggle. 
 
-Original Notebook by Lucifer ML: 
+Original Data Notebook by Lucifer ML on Kaggle: 
  https://www.kaggle.com/code/d4rklucif3r/waste-water-treatment-plant-luciferml-viz
 
-License:
-CC BY-SA 4.0
+License:  CC BY-SA 4.0
 
-Scientific a
-
-```
-# This is formatted as code
-```
-
-Article referenced for information:  https://www.sciencedirect.com/science/article/abs/pii/S0957582021004663?via%3Dihub
+Scientific Article referenced for information:  https://www.sciencedirect.com/science/article/abs/pii/S0957582021004663?via%3Dihub
 
 
 
