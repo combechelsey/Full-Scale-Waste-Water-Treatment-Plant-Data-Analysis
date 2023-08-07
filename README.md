@@ -20,51 +20,80 @@
 <b>
 
 ## **Data Dictionary**
+
 <b>
 <b>
-- **Average Outflow** (avg_outflow): Treated wastewater released back into the environment.
+
+ - **Average Outflow** (avg_outflow): Treated wastewater released back into the environment.
 <b>
 <b>
+
 - **Average Inflow** (avg_inflow): Contaminated wastewater entering the treatment plant.
 <b>
 <b>
+
 - **Energy Consumption** (total_grid): The amount of energy used by the treatment plant, which is influenced by pollutant load, treatment methods, and climate.
+
 <b>
 <b>
-- **Ammonia** (A): A critical nutrient in biological wastewater treatment, it is converted by bacteria to break down food or BOD.
+
+ - **Ammonia** (A): A critical nutrient in biological wastewater treatment, it is converted by bacteria to break down food or BOD.
+
 <b>
 <b>
-- **Biological Oxygen Demand** (BOD): A measure of oxygen required by microorganisms to decompose organic matter in water, indicating the level of organic pollution in wastewater.
+
+ - **Biological Oxygen Demand** (BOD): A measure of oxygen required by microorganisms to decompose organic matter in water, indicating the level of organic pollution in wastewater.
+
 <b>
 <b>
-- **Chemical Oxygen Demand** (COD): A measure of oxygen needed to oxidize all organic matter in a water sample, indicating organic pollution.
+
+ - **Chemical Oxygen Demand** (COD): A measure of oxygen needed to oxidize all organic matter in a water sample, indicating organic pollution.
+
 <b>
 <b>
+ 
  - **Total Nitrogen** (TN): The sum of all forms of nitrogen in wastewater, important for treatment and preventing eutrophication.
+
 <b>
 <b>
+
  - **Average Temperature** (T): Influences wastewater treatment processes, with warmer temperatures leading to faster biodegradation and higher oxygen uptake. 
+
 <b>
 <b>
+
  - **Maximum Temperature** (TM) and Minimum Temperature (Tm): Warmest and coldest months, affecting microbial activity and treatment system design.
+
 <b>
 <b>
+
  - **Atmospheric Pressure** (SLP)
+
 <b>
 <b>
+
  - **Average Humidity** (H): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+
 <b>
 <b>
+
  - **Total Rainfall** (PP): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+
 <b>
 <b>
+
  - **Average Visibility** (VV): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+
 <b>
 <b>
+
  - **Average Wind Speed** (VW): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+
 <b>
 <b>
+
  - **Maximum Wind Speed** (VG): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+
 <b>
 <b>
 <b>
