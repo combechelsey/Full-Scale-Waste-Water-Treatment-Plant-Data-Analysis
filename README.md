@@ -21,26 +21,21 @@
 
 ## **Data Dictionary**
 
-Average Outflow (avg_outflow): Treated wastewater released back into the environment.
-<b>
-
-Average Inflow (avg_inflow): Contaminated wastewater entering the treatment plant.
-<b>
-Energy Consumption (total_grid): The amount of energy used by the treatment plant, which is influenced by pollutant load, treatment methods, and climate.
-<b>
-Ammonia (A): A critical nutrient in biological wastewater treatment, it is converted by bacteria to break down food or BOD.
-<b>
-Biological Oxygen Demand (BOD): A measure of oxygen required by microorganisms to decompose organic matter in water, indicating the level of organic pollution in wastewater.
-<b>
-Chemical Oxygen Demand (COD): A measure of oxygen needed to oxidize all organic matter in a water sample, indicating organic pollution.
-<b>
-Total Nitrogen (TN): The sum of all forms of nitrogen in wastewater, important for treatment and preventing eutrophication.
-<b>
-Average Temperature (T): Influences wastewater treatment processes, with warmer temperatures leading to faster biodegradation and higher oxygen uptake.
-<b>
-Maximum Temperature (TM) and Minimum Temperature (Tm): Warmest and coldest months, affecting microbial activity and treatment system design.
-<b>
-Atmospheric Pressure (SLP), Average Humidity (H), Total Rainfall (PP), Average Visibility (VV), Average Wind Speed (VW), and Maximum Wind Speed (VG): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+- Average Outflow (avg_outflow): Treated wastewater released back into the environment.
+- Average Inflow (avg_inflow): Contaminated wastewater entering the treatment plant.
+- Energy Consumption (total_grid): The amount of energy used by the treatment plant, which is influenced by pollutant load, treatment methods, and climate.
+- Ammonia (A): A critical nutrient in biological wastewater treatment, it is converted by bacteria to break down food or BOD.
+- Biological Oxygen Demand (BOD): A measure of oxygen required by microorganisms to decompose organic matter in water, indicating the level of organic pollution in wastewater.
+- Chemical Oxygen Demand (COD): A measure of oxygen needed to oxidize all organic matter in a water sample, indicating organic pollution.
+- Total Nitrogen (TN): The sum of all forms of nitrogen in wastewater, important for treatment and preventing eutrophication.
+- Average Temperature (T): Influences wastewater treatment processes, with warmer temperatures leading to faster biodegradation and higher oxygen uptake. 
+- Maximum Temperature (TM) and Minimum Temperature (Tm): Warmest and coldest months, affecting microbial activity and treatment system design.
+- Atmospheric Pressure (SLP)
+- Average Humidity (H): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+- Total Rainfall (PP): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+- Average Visibility (VV): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+- Average Wind Speed (VW): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
+- Maximum Wind Speed (VG): Atmospheric conditions affecting the evaporation processes of the plant and overall treatment efficiency.
 <b>
 <b>
 <b>
